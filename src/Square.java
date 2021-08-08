@@ -1,4 +1,4 @@
-public class Square {
+public class Square implements AreaComputable {
     private int side;
 
     public Square(int side) {

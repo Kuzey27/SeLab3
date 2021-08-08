@@ -1,4 +1,4 @@
-public class Rectangle {
+public class Rectangle implements AreaComputable {
     private int height;
     private int width;
 
